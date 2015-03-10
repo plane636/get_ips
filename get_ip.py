@@ -10,7 +10,7 @@ inFile = options.input
 output = options.output
 
 if not inFile:
-    print 'ÇëÊäÈëÕıÈ·Â·¾¶'
+    print 'è¯·è¾“å…¥æ­£ç¡®æ–‡ä»¶è·¯å¾„'
     exit()
 
 fp = open(inFile)
